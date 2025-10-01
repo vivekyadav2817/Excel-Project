@@ -1,11 +1,10 @@
-IT Ticket Analysis – Data Analyst Project
-Project Overview
+                                                   IT Ticket Analysis – Data Analyst Project
 
+                                                            Project Overview
 This project focuses on analyzing the IT support ticket management system of a corporate setup.
 The goal was to study ticket resolution efficiency, agent performance, issue categories, and employee satisfaction using Excel and present actionable insights through dashboards and reports.
 
-What I Did
-
+                                                                What I Did
 Cleaned and structured the dataset of 97,498 tickets and 51 IT agents.
 
 Categorized tickets by request type, severity, priority, and agent ID for deeper analysis.
@@ -18,7 +17,7 @@ Built Excel dashboards to visualize ticket categories, resolution distribution, 
 
 Performed a cost-benefit analysis of hiring vs. training vs. software upgrades.
 
-Key Insights
+                                                                Key Insights
 
 Ticket Categories: 75% were IT Requests; 40% System issues, 30% Login, 20% Software, 10% Hardware.
 
@@ -30,7 +29,7 @@ Agent Performance: Top agents resolved ~2,000 tickets with <3.8 days avg. resolu
 
 Category Bottlenecks: Hardware/System tickets had the slowest turnaround, Login fastest but lowest satisfaction.
 
-Dashboard Highlights
+                                                             Dashboard Highlights
 
 The Excel dashboard includes:
 
@@ -52,7 +51,7 @@ Visualization: Line, Bar, Donut Charts, KPI Cards.
 
 Business Analysis: Cost-benefit evaluation and staffing recommendations.
 
-Recommendations
+                                                             Recommendations
 
 Training: Upskill low-performing agents to reduce resolution delays.
 
@@ -61,3 +60,4 @@ Automation: Streamline repetitive IT Requests (75% of tickets).
 System Upgrade: Improve ticket management software for faster routing.
 
 Staffing: Recognize and retain top performers; optimize workload distribution.
+
