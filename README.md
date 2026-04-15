@@ -1,63 +1,82 @@
-                                                   IT Ticket Analysis – Data Analyst Project
+# 🎫 IT Ticket Analysis  
+### 📊 Data Analyst Project | Excel Dashboard  
 
-                                                            Project Overview
-This project focuses on analyzing the IT support ticket management system of a corporate setup.
-The goal was to study ticket resolution efficiency, agent performance, issue categories, and employee satisfaction using Excel and present actionable insights through dashboards and reports.
+![Excel](https://img.shields.io/badge/Excel-Dashboard-green?style=for-the-badge&logo=microsoft-excel)
+![Analytics](https://img.shields.io/badge/Data%20Analysis-Business%20Insights-orange?style=for-the-badge&logo=google-analytics)
+![KPI](https://img.shields.io/badge/KPI-Performance%20Tracking-blue?style=for-the-badge)
 
-                                                                What I Did
-Cleaned and structured the dataset of 97,498 tickets and 51 IT agents.
+---
 
-Categorized tickets by request type, severity, priority, and agent ID for deeper analysis.
+## 🚀 Project Overview  
+This project analyzes an IT support ticket management system within a corporate environment to evaluate **resolution efficiency, agent performance, issue categories, and employee satisfaction**.  
 
-Measured agent performance (tickets handled, resolution time, satisfaction rate).
+Using Excel, the data was transformed into **interactive dashboards and actionable insights** to improve operational efficiency and decision-making.
 
-Conducted trend analysis of ticket volumes over years and seasonal peaks.
+---
 
-Built Excel dashboards to visualize ticket categories, resolution distribution, and agent KPIs.
+## 🔍 What I Did  
+✨ Cleaned and structured **97,498 tickets** and **51 IT agents** dataset  
+📊 Categorized tickets by **request type, severity, priority, and agent**  
+📈 Measured **agent performance** (tickets handled, resolution time, satisfaction)  
+📉 Conducted **trend analysis** on ticket volumes and seasonal peaks  
+📊 Built **interactive Excel dashboards** for KPI tracking and insights  
+💰 Performed **cost-benefit analysis** (hiring vs training vs automation)  
 
-Performed a cost-benefit analysis of hiring vs. training vs. software upgrades.
+---
 
-                                                                Key Insights
+## 📊 Key Insights  
+🔹 **Ticket Distribution** → 75% IT Requests  
+  • 40% System | 30% Login | 20% Software | 10% Hardware  
 
-Ticket Categories: 75% were IT Requests; 40% System issues, 30% Login, 20% Software, 10% Hardware.
+🔹 **Resolution Time** → Avg: **4.55 days**  
+  • 18% tickets took **>9 days**, impacting satisfaction  
 
-Resolution Time: Avg. resolution = 4.55 days; 18% of tickets took over 9 days, impacting satisfaction.
+🔹 **Customer Satisfaction** → Avg: **4.1/5**  
+  • 52% high ratings | 12% low ratings  
 
-Satisfaction: Avg. = 4.1/5; 52% high ratings, but 12% low (1–2).
+🔹 **Agent Performance**  
+  • Top agents: ~2,000 tickets, <3.8 days resolution, high satisfaction  
+  • Low performers: >5 days resolution, ratings <3.6  
 
-Agent Performance: Top agents resolved ~2,000 tickets with <3.8 days avg. resolution & high satisfaction; low performers exceeded 5 days avg. with ratings <3.6.
+🔹 **Bottlenecks**  
+  • Slow: Hardware & System issues  
+  • Fast but low satisfaction: Login issues  
 
-Category Bottlenecks: Hardware/System tickets had the slowest turnaround, Login fastest but lowest satisfaction.
+---
 
-                                                             Dashboard Highlights
+## 📷 Dashboard Preview  
+_Add your dashboard screenshot here_  
+![Dashboard](dashboard.png)
 
-The Excel dashboard includes:
+---
 
-KPIs: Total Tickets, Avg. Resolution Time, Avg. Satisfaction, Top/Low Agents.
+## 📊 Dashboard Highlights  
+The Excel dashboard includes:  
 
-Charts: Ticket Volume Trends, Request Category Distribution, Resolution Time Buckets, Satisfaction Scores.
+📌 **KPIs** → Total Tickets, Avg Resolution Time, Satisfaction Score, Top/Low Agents  
+📈 **Charts** → Ticket Trends, Category Distribution, Resolution Time Buckets  
+🎯 **Filters** → Agent, Request Type, Severity, Priority  
 
-Interactive Filters: By Agent, Request Type, Severity, and Priority.
+---
 
-Tools & Skills Used
+## 🛠 Tools & Skills Used  
+📊 **Excel** → Pivot Tables, Charts, Slicers, Dashboards  
+🧹 **Data Cleaning** → Handling missing values & standardization  
+📐 **Formulas** → AVERAGEIFS, COUNTIFS, LOOKUP, Conditional Formatting  
+📈 **Visualization** → Line, Bar, Donut Charts, KPI Cards  
+💡 **Business Analysis** → Cost-benefit & operational insights  
 
-Microsoft Excel: Pivot Tables, Pivot Charts, Dashboards, Slicers.
+---
 
-Data Cleaning: Handling duplicates, missing values, and standardizing categories.
+## 💡 Recommendations  
+✔ **Training** → Upskill low-performing agents to reduce delays  
+✔ **Automation** → Streamline repetitive IT requests (75% volume)  
+✔ **System Upgrade** → Improve ticket routing and handling efficiency  
+✔ **Workforce Optimization** → Retain top performers & balance workload  
 
-Formulas & Analysis: AVERAGEIFS, COUNTIFS, LOOKUP, Conditional Formatting.
+---
 
-Visualization: Line, Bar, Donut Charts, KPI Cards.
+## ⭐ Key Takeaway  
+This project highlights how data analysis can improve **operational efficiency, employee performance, and customer satisfaction** in IT service management.
 
-Business Analysis: Cost-benefit evaluation and staffing recommendations.
-
-                                                             Recommendations
-
-Training: Upskill low-performing agents to reduce resolution delays.
-
-Automation: Streamline repetitive IT Requests (75% of tickets).
-
-System Upgrade: Improve ticket management software for faster routing.
-
-Staffing: Recognize and retain top performers; optimize workload distribution.
-
+---
