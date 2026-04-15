@@ -46,7 +46,7 @@ Using Excel, the data was transformed into **interactive dashboards and actionab
 
 ## 📷 Dashboard Preview  
 _Add your dashboard screenshot here_  
-![Dashboard](Excel Dashboard.png)
+![Dashboard](Excel Dashboard.PNG)
 
 ---
 
